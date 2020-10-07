@@ -1,4 +1,4 @@
-<img src="https://github.com/0xskunk/Resource-Program-for-Cyber-Students/blob/master/images/usr.png" width="300">
+<img src="https://github.com/0xskunk/linux_command_quiz/blob/master/images/usr.png" width="300">
 
 A small program that will enable students and linux users to test their linux knowledge using a fun, friendly, and most importantly, colourful interface.
 
