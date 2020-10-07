@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="https://github.com/0xskunk/linux-command-quiz/blob/master/images/usr.png" width="300">
+<p align="center">
+	<img src="https://github.com/0xskunk/linux-command-quiz/blob/master/images/usr.png" width="300">
+</p>
 
 A small program that will enable students and linux users to test their linux knowledge using a fun, friendly, and most importantly, colourful interface.
 
