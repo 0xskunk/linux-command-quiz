@@ -32,7 +32,7 @@ Using the program is simple! From the directory you installed it just type the f
 cd linux-command-quiz
 python3 linux_quiz.py
 ```
-<img src="https://github.com/0xskunk/linux-command-quiz/blob/master/images/quiz.png" width="400">
+<img src="https://github.com/0xskunk/linux-command-quiz/blob/master/images/quiz.png" width="600">
 
 --------
 
